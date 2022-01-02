@@ -1,7 +1,3 @@
-<style> 
-
-
-</style>
 - 👋 Hi, I’m kanish 
 - 👀 I’m interested in learning solidity
 - 🌱 I’m currently learning HTML5,CSS and JS
