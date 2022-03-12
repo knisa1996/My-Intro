@@ -1,5 +1,5 @@
 - <h1>👋 Hi, I’m kanish <h1>
-  <input type=text > </input>
+  <input placceholder="Type here" type="text" > </input>
 - 👀 I’m interested in learning solidity and "MEAN" stack
 - 🌱 I’m currently learning HTML5,CSS and JS
 - 💞️ I’m looking to collaborate on any Simple frontend Projects
