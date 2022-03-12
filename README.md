@@ -1,5 +1,5 @@
-- 👋 Hi, I’m kanish 
-- 👀 I’m interested in learning solidity
+- <h1>👋 Hi, I’m kanish <h1>
+- 👀 I’m interested in learning solidity and "MEAN" stack
 - 🌱 I’m currently learning HTML5,CSS and JS
 - 💞️ I’m looking to collaborate on any Simple frontend Projects
 - 📫 How to reach me ... https://www.instagram.com/kanishanto/
